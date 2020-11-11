@@ -32,7 +32,7 @@
         <dependency>
    			<groupId>com.baomidou</groupId>
     		<artifactId>mybatis-plus</artifactId>
-    		<version>3.0.3</version>
+    		<version>3.4.1</version>
 		</dependency> 
 		<!-- mybatis plus 代码生成器velocity 模板引擎, 默认 -->
 		<dependency>
