@@ -32,7 +32,7 @@
         <dependency>
    			<groupId>com.baomidou</groupId>
     		<artifactId>mybatis-plus</artifactId>
-    		<version>3.0.3</version>
+    		<version>3.4.1</version>
 		</dependency> 
 		<!-- mybatis plus 代码生成器velocity 模板引擎, 默认 -->
 		<dependency>
@@ -81,14 +81,14 @@
 		<dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.51</version>
+            <version>1.2.69</version>
         </dependency>
         
         <!-- 输出JSON格式日志 -->
         <dependency> 
 		  	<groupId>net.logstash.logback</groupId>
 		  	<artifactId>logstash-logback-encoder</artifactId>
-		  	<version>4.10</version>
+		  	<version>6.3</version>
 		</dependency>
         
         <dependency>
